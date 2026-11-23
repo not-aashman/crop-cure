@@ -1,0 +1,13 @@
+# Model files are too large for git. The trained model is attached to the GitHub release.
+*.h5
+*.keras
+*.zip
+model_tfjs/
+
+# Notebook and editor clutter
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
