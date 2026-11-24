@@ -15,7 +15,7 @@ Live app: [crop-cure-livid.vercel.app](https://crop-cure-livid.vercel.app/)
 1. The user uploads a leaf photo in the web app.
 2. The image is resized to 256 × 256 and passed to the model in the browser. Nothing is uploaded to a server.
 3. The model returns a probability for each of the 38 classes, and the app shows the most likely one.
-4. The predicted class is looked up in a treatment table (`data/disease_treatment.csv`) to give a suggested treatment.
+4. The app shows a suggested treatment for that class. The treatments come from the team's treatment table, `data/disease_treatment.csv`; the web app carries its own copy, with shorter wording, inside its script.
 
 ## Model
 

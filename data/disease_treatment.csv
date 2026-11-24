@@ -6,7 +6,7 @@ Apple___healthy,No treatment required.
 Blueberry___healthy,No treatment required.
 Cherry_(including_sour)___Powdery_mildew,"Apply fungicides like sulfur or myclobutanil, remove infected leaves, increase air circulation."
 Cherry_(including_sour)___healthy,No treatment required.
-Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot,"Apply fungicides such as azoxystrobin, rotate crops, use resistant varieties."
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,"Apply fungicides such as azoxystrobin, rotate crops, use resistant varieties."
 Corn_(maize)___Common_rust_,"Use fungicides like mancozeb or copper sprays, plant resistant hybrids, control weed hosts."
 Corn_(maize)___Northern_Leaf_Blight,"Apply fungicides such as propiconazole, use resistant hybrids, rotate crops."
 Corn_(maize)___healthy,No treatment required.
@@ -32,7 +32,7 @@ Tomato___Early_blight,"Apply fungicides like chlorothalonil, remove infected lea
 Tomato___Late_blight,"Use fungicides such as metalaxyl, remove infected plants, avoid wet conditions."
 Tomato___Leaf_Mold,"Apply fungicides like chlorothalonil, improve ventilation, remove infected leaves."
 Tomato___Septoria_leaf_spot,"Apply fungicides such as mancozeb, remove infected leaves, rotate crops."
-Tomato___Spider_mites_Two-spotted_spider_mite,"Use miticides or insecticidal soaps, increase humidity, introduce predatory mites."
+Tomato___Spider_mites Two-spotted_spider_mite,"Use miticides or insecticidal soaps, increase humidity, introduce predatory mites."
 Tomato___Target_Spot,"Apply fungicides such as azoxystrobin, remove infected leaves, improve air circulation."
 Tomato___Tomato_Yellow_Leaf_Curl_Virus,"Remove infected plants, use insecticides to control whiteflies, plant resistant varieties."
 Tomato___Tomato_mosaic_virus,"Remove infected plants, disinfect tools, control insect vectors."
